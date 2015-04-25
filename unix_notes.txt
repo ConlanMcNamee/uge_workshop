@@ -1,0 +1,87 @@
+    1  ls -l ~
+    2  pwd
+    3  cd Documents /* chainging my directory into the documents folder */
+    4  cd /Users/conlanmcnamee/Documents
+    5  man ls
+    6  ln -s "Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+    7  sudo ln -s "Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+    8  pwd
+    9  pwd
+   10  ls
+   11  pwd
+   12  cd /
+   13  pwd
+   14  ls
+   15  ls -t
+   16  ls -l
+   17  clear
+   18  ls -t
+   19  ls -r
+   20  ls -rt
+   21  ls -rt
+   22  -ls rl
+   23  ls -rl
+   24  clear
+   25  man ls
+   26  man ls
+   27  ls -F
+   28  man ls
+   29  ls -s
+   30  man ls
+   31  cd /Users/conlanmcnamee
+   32  pwd
+   33  cd /tmp
+   34  pwd
+   35  mkdir my\ folder
+   36  pwd
+   37  ls
+   38  cd my folder
+   39  cd my\ folder
+   40  cd ..
+   41  ls
+   42  clear
+   43  pwd
+   44  cd ..
+   45  pwd
+   46  cd /Users/conlanmcnamee
+   47  pwd
+   48  clear
+   49  ls
+   50  ls -l
+   51  cd Library
+   52  pwd
+   53  ls
+   54  cd..
+   55  cd ..
+   56  pwd
+   57  cd Library/Accounts
+   58  pwd
+   59  cd ../..
+   60  pwd
+   61  cd
+   62  pwd
+   63  clear
+   64  ls ~
+   65  cd Library
+   66  ls ..
+   67  cd ..
+   68  pwd
+   69  clear
+   70  cd Library/
+   71  cd ..
+   72  clear
+   73  history
+   74  history 10
+   75  clear
+   76  history | less
+   77  history 10
+   78  man less
+   79  cd
+   80  pwd
+   81  ls
+   82  cd Documents/
+   83  ls
+   84  cd ..
+   85  cd /tmp
+   86  pwd
+   87  history > moving_around.txt
