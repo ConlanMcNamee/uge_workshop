@@ -1,0 +1,4 @@
+git is a way to log any changes we have made to files by first creating a git init
+
+then once we have a repository we can then use git add to move somethign from our working directory to the 
+staging area and from there using git commit to commit it to the repository. 
